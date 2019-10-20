@@ -9,4 +9,4 @@ a:visited { color: #CCCCFF }
 .pages-preview { display: flex; align-items: center; flex-wrap: wrap }
 .page { padding: 1em; width: 350 }
 .member { font-size: normal }
-.staff-section { text-align: center }
+.staff-section { text-align: end }
