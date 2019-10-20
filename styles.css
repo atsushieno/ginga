@@ -1,0 +1,12 @@
+body { background-color: #000000; color: white; font-size: large; line-height: 1.7em; padding: 3em }
+.site-header { text-align: end; background-color: #002040; font-size: small }
+img { horizontal-align: center; vertical-align: center; }
+.toppage { text-align: center }
+a:link { color: #CCCCFF }
+a:visited { color: #CCCCFF }
+.link-to-circle-info { font-size: small }
+.in-page-links { font-size: small }
+.pages-preview { display: flex; align-items: center; flex-wrap: wrap }
+.page { padding: 1em; width: 350 }
+.member { font-size: normal }
+.staff-section { text-align: center }
